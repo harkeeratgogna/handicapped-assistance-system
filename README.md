@@ -1,5 +1,3 @@
-# handicapped-assistance-system
-Arduino-based assistance system for communication and basic health monitoring.
 # Handicapped Assistance System
 
 An Arduino-based assistance prototype designed to help people with disabilities communicate predefined needs through simple user inputs while providing basic health monitoring.
